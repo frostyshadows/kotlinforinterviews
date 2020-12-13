@@ -10,3 +10,5 @@ An overview of Kotlin code snippets that came up often during my interview prep 
 [Part 4: Iteration](https://blog.kotlin-academy.com/kotlin-for-interviews-part-4-iteration-b176dee4f1ae)
 
 [Part 5: Frequently Used Code Snippets](https://blog.kotlin-academy.com/kotlin-for-interviews-part-5-frequently-used-code-snippets-444ad4d137f5)
+
+<img src="https://github.com/frostyshadows/kotlinforinterviews/blob/main/kotlin_for_interviews_cheatsheet.png" width="100%">
